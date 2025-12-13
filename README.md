@@ -1,19 +1,5 @@
 # 📡 Triangulator: Geospatial Locator Dashboard
 
-# !\[alt text](https://img.shields.io/badge/Triangulator-v2.1.4-blue?style=for-the-badge\&logo=radar)
-
-# 
-
-# !\[alt text](https://img.shields.io/badge/.NET-6.0%2B-512BD4?style=for-the-badge\&logo=dotnet)
-
-# 
-
-# !\[alt text](https://img.shields.io/badge/Platform-WPF-0078D4?style=for-the-badge\&logo=windows)
-
-# 
-
-# !\[alt text](https://img.shields.io/badge/Status-Stable-success?style=for-the-badge)
-
 # Triangulator — это высокопроизводительное приложение для симуляции и визуализации процесса триангуляции объекта в трехмерном пространстве. Проект представляет собой инструментальную панель (Dashboard) в стиле Cyberpunk/Sci-Fi, которая в реальном времени рассчитывает координаты цели на основе данных от трех базовых станций.
 
 # 📑 Содержание
